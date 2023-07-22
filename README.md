@@ -20,3 +20,6 @@ Necesito tres ***asteriscos para que este en negrita y cursiva***
 # Insertamos una imagen
 
 ![](Image20230722155029.png) ![LIDE](Image20230722155029.png)
+
+La pagina web del New Dimensions es <https://newdimensions.academy/>\
+Tambien puedes regresar haciendo click [aqui](https://newdimensions.academy/)
