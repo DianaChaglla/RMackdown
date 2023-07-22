@@ -19,5 +19,4 @@ Necesito tres ***asteriscos para que este en negrita y cursiva***
 
 # Insertamos una imagen
 
-![](Image20230722155029.png)
-![LIDE](Image20230722155029.png)
+![](Image20230722155029.png) ![LIDE](Image20230722155029.png)
