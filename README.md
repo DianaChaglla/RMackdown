@@ -2,3 +2,7 @@
 #RMackdown
 
 Aqui va mi siguiente parrafo
+
+Estes es el tercer parrafo.\  
+Este es un cuarto parrafo sin espacio.\
+Este es un quinto parrafo sin espacio
